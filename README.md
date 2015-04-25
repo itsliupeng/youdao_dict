@@ -1,7 +1,8 @@
 ## Terminal Client of Youdao Fanyi
 
 ### install
-- git clone
+- `git clone https://github.com/itsliupeng/youdao_dict.git`
+- type your key and key_from in config/youdao_dict.yml
 - `./install.sh`
 
 ### usage
