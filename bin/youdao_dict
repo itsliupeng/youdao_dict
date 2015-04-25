@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+require File.expand_path '../../lib/youdao_dict', __FILE__
+
+options = {}
+
+OptionParser.new do |opts|
+  opts.banner = "Usage: youdao-dict [[options] [word_to_query]]"
+
+  opts.on("-d", "--dict", "list dictionary") do |d|
+    options[:dict] = d
+  end
+
+  opts.on("-tDATE", "--time=DATE", "list words queried on DATE") do |t|
+    options[:time] = t
+  end
+end.parse!
+
+
+if !ARGV.empty?
+  word = Word.new ARGV.join(" ")
+  $stdout.puts word.translate
+  word.store if not word.stored?
+end
+
+if options[:dict]
+  out = YoudaoDict.words_of(options[:time])
+  STDOUT.puts out.join("\n") if out
+end
