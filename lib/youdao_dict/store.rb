@@ -2,21 +2,29 @@ module YoudaoDict
   def store
     print "\nStore #{@word} to dictionary? Yy\t".red
 
+    require 'timeout'
     begin
-      system("stty raw echo")
-      input = STDIN.getc.chomp
-    ensure
-      system("stty -raw echo")
-    end
+      Timeout::timeout(5) {
+        begin
+          system("stty raw echo")
+          input = STDIN.getc.chomp
+        ensure
+          system("stty -raw echo")
+        end
 
-    if input  =~ /y/i
-      File.open(YoudaoDict.filename, 'a') do |f|
-        f.write "#{@word}:"
-        f.write "\t/#{@data["basic"]["phonetic"]}/" if @data["basic"] and @data["basic"]["phonetic"]
-        f.write  "\t#{@data["translation"].join(" | ")}" if @data["translation"]
-        # f.write  "\t #{@data["basic"]["explains"].join(" | ")}" if @data["basic"]["explains"]
-        f.write "\t#{Time.now.to_s.split(" +").first}\n"
-      end
+        if input  =~ /y/i
+          File.open(YoudaoDict.filename, 'a') do |f|
+            f.write "#{@word}:"
+            f.write "\t/#{@data["basic"]["phonetic"]}/" if @data["basic"] and @data["basic"]["phonetic"]
+            f.write  "\t#{@data["translation"].join(" | ")}" if @data["translation"]
+            # f.write  "\t #{@data["basic"]["explains"].join(" | ")}" if @data["basic"]["explains"]
+            f.write "\t#{Time.now.to_s.split(" +").first}\n"
+          end
+        end
+      }
+    rescue
+      puts "end..."
+      exit
     end
   end
 
