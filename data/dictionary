@@ -1,36 +1,178 @@
-merry:	/'merɪ/	快乐	2015-04-24 14:22:52
-nirvana:	/nɪə'vɑːnə/	涅槃	2015-04-24 14:23:05
-astute:	/ə'stjuːt/	精明的	2015-04-24 14:23:42
-beastie:	/'biːstɪ/	野兽	2015-04-24 14:28:15
-instantaneous:	/,ɪnst(ə)n'teɪnɪəs/	瞬时	2015-04-24 14:38:33
-etymology:	/,etɪ'mɒlədʒɪ/	词源	2015-04-24 14:59:10
-outperform:	/aʊtpə'fɔːm/	跑赢大盘	2015-04-24 15:00:43
-tackle:	/'tæk(ə)l/	解决	2015-04-24 15:12:34
-sin:	/sɪn/	罪	2015-04-24 16:05:11
-mitzvah:	/'mɪtsvə/	戒律	2015-04-24 16:05:21
-badge:	/bædʒ/	徽章	2015-04-24 16:15:39
-affectionate:	/ə'fekʃ(ə)nət/	充满深情的	2015-04-24 16:18:23
-culprit:	/'kʌlprɪt/	的罪魁祸首	2015-04-24 16:19:12
-spool:	/spuːl/	线轴	2015-04-24 16:21:16
-kewed:	/skjuːd/	倾斜	2015-04-24 16:40:07
-rehearsal:	/rɪ'hɜːs(ə)l/	彩排	2015-04-24 16:40:28
-suck:	/sʌk/	吸	2015-04-24 16:46:03
-prestige:	/pre'stiː(d)ʒ/	声望	2015-04-24 16:49:03
-accrued:	/ə'krʊd/	应计	2015-04-24 16:58:58
-affliction:	/ə'flɪkʃ(ə)n/	苦难	2015-04-24 16:59:31
-forecast:	/'fɔːkɑːst/	2015-04-24 17:08:37
-dysfunctions:	障碍	2015-04-24 17:12:07
-I promise full anonymity and no strings attached:	我保证完全匿名,没有附加条件	2015-04-24 17:12:23
-anonymity:	/ænə'nɪmɪtɪ/	匿名	2015-04-24 17:20:56
-orthogonal:	/ɔː'θɒg(ə)n(ə)l/	正交	2015-04-24 17:22:53
-slap:	/slæp/	一巴掌	2015-04-24 17:27:18
-mandatory:	/'mændət(ə)rɪ/	强制性的	2015-04-24 18:07:57
-tricky:	/'trɪkɪ/	棘手的	2015-04-24 21:47:51
-int:	/ɪn'tɪəːrɪə(r)/	int	2015-04-25 15:36:17
-upsurge:	/'ʌpsɜːdʒ/	高潮	2015-04-26 10:41:10
-rogue:	/rəʊg/	流氓	2015-04-26 18:46:16
-falten:	缺失	2015-04-26 19:09:28
-abyss:	/ə'bɪs/	深渊	2015-04-26 20:41:48
-expat:	/eks'pæt/	外籍人士	2015-04-26 22:50:06
-Strikingly:	/'straikiŋli/	引人注目的是	2015-04-27 17:11:17
-curry:	/'kʌrɪ/	咖喱	2015-04-27 22:22:36
+merry:  /'merɪ/  快乐  2015-04-24 14:22:52
+nirvana:  /nɪə'vɑːnə/  涅槃  2015-04-24 14:23:05
+astute:  /ə'stjuːt/  精明的  2015-04-24 14:23:42
+beastie:  /'biːstɪ/  野兽  2015-04-24 14:28:15
+instantaneous:  /,ɪnst(ə)n'teɪnɪəs/  瞬时  2015-04-24 14:38:33
+etymology:  /,etɪ'mɒlədʒɪ/  词源  2015-04-24 14:59:10
+outperform:  /aʊtpə'fɔːm/  跑赢大盘  2015-04-24 15:00:43
+tackle:  /'tæk(ə)l/  解决  2015-04-24 15:12:34
+sin:  /sɪn/  罪  2015-04-24 16:05:11
+mitzvah:  /'mɪtsvə/  戒律  2015-04-24 16:05:21
+badge:  /bædʒ/  徽章  2015-04-24 16:15:39
+affectionate:  /ə'fekʃ(ə)nət/  充满深情的  2015-04-24 16:18:23
+culprit:  /'kʌlprɪt/  的罪魁祸首  2015-04-24 16:19:12
+spool:  /spuːl/  线轴  2015-04-24 16:21:16
+kewed:  /skjuːd/  倾斜  2015-04-24 16:40:07
+rehearsal:  /rɪ'hɜːs(ə)l/  彩排  2015-04-24 16:40:28
+suck:  /sʌk/  吸  2015-04-24 16:46:03
+prestige:  /pre'stiː(d)ʒ/  声望  2015-04-24 16:49:03
+accrued:  /ə'krʊd/  应计  2015-04-24 16:58:58
+affliction:  /ə'flɪkʃ(ə)n/  苦难  2015-04-24 16:59:31
+forecast:  /'fɔːkɑːst/  2015-04-24 17:08:37
+dysfunctions:  障碍  2015-04-24 17:12:07
+I promise full anonymity and no strings attached:  我保证完全匿名,没有附加条件  2015-04-24 17:12:23
+anonymity:  /ænə'nɪmɪtɪ/  匿名  2015-04-24 17:20:56
+orthogonal:  /ɔː'θɒg(ə)n(ə)l/  正交  2015-04-24 17:22:53
+slap:  /slæp/  一巴掌  2015-04-24 17:27:18
+mandatory:  /'mændət(ə)rɪ/  强制性的  2015-04-24 18:07:57
+tricky:  /'trɪkɪ/  棘手的  2015-04-24 21:47:51
+int:  /ɪn'tɪəːrɪə(r)/  int  2015-04-25 15:36:17
+upsurge:  /'ʌpsɜːdʒ/  高潮  2015-04-26 10:41:10
+rogue:  /rəʊg/  流氓  2015-04-26 18:46:16
+abyss:  /ə'bɪs/  深渊  2015-04-26 20:41:48
+expat:  /eks'pæt/  外籍人士  2015-04-26 22:50:06
+Strikingly:  /'straikiŋli/  引人注目的是  2015-04-27 17:11:17
+curry:  /'kʌrɪ/  咖喱  2015-04-27 22:22:36
+unleash:  /ʌn'liːʃ/  释放  2015-04-28 14:25:55
+leash:  /liːʃ/  皮带  2015-04-28 14:26:05
+classy:  /'klɑːsɪ/  优雅的  2015-04-29 01:01:57
+ceremony:  /'serɪmənɪ/  仪式  2015-04-29 01:13:54
+jassle:  /'hæs(ə)l/  麻烦  2015-04-29 01:18:32
+resilence:  韧性  2015-04-29 01:19:49
+impede:  /ɪm'piːd/  阻碍  2015-04-29 01:21:46
+minimalist:  极简主义  2015-04-29 10:16:29
+flatten:  /'flæt(ə)n/  平  2015-04-29 10:17:43
+differ:	/'dɪfə/	不同	2015-04-29 13:31:09
+defer:	/dɪ'fɜː/	推迟	2015-04-29 13:31:49
+freed:	释放	2015-04-29 13:47:08
+squash:	/skwɒʃ/	南瓜	2015-04-30 18:16:09
+glob:	/glɒb/	一团	2015-04-30 21:56:07
+portfolio:	/pɔːt'fəʊlɪəʊ/	投资组合	2015-05-03 09:31:54
+revenue:	/'revənjuː/	收入	2015-05-03 09:34:56
+monetized:	货币化	2015-05-03 09:36:32
+peek:	/piːk/	peek	2015-05-03 10:38:39
+jumbotron:	/'dʒʌmbəutrɔn/	超大屏幕	2015-05-07 22:09:53
+unequal:	/ʌn'iːkw(ə)l/	不平等的	2015-05-07 22:13:18
+muted:	/'mjuːtɪd/	柔和的	2015-05-07 22:17:00
+condense:	/kən'dens/	浓缩	2015-05-07 22:37:51
+stripe:	/straɪp/	条纹	2015-05-07 22:39:48
+mocha:	/'mɒkə/	摩卡	2015-05-08 17:34:16
+nag:	/næg/	唠叨	2015-05-15 14:53:52
+itch:	/ɪtʃ/	痒	2015-05-15 14:55:02
+half day leave:	一半的一天离开	2015-05-18 11:54:31
+preamble:	/priː'æmb(ə)l; 'priː-/	序言	2015-05-18 16:58:45
+exlixer:	exlixer	2015-05-19 14:28:33
+electrical:	/ɪ'lektrɪk(ə)l/	电	2015-05-20 23:46:30
+paul:	/pɔ:l/	保罗	2015-05-25 14:17:01
+preseverant:	preseverant	2015-05-25 20:18:45
+byclle:	byclle	2015-05-25 22:26:09
+threshod:	threshod	2015-05-27 10:48:19
+dispute:	/dɪ'spjuːt; 'dɪspjuːt/	争端	2015-05-27 17:27:01
+clash:	/klæʃ/	冲突	2015-05-30 01:34:26
+larry:	/'læri/	拉里	2015-06-01 12:16:06
+soopy:	soopy	2015-06-01 15:26:22
+tainted:	/'teɪntɪd/	受污染的	2015-06-02 15:43:15
+blazing:	/'bleɪzɪŋ/	燃烧的	2015-06-02 16:02:39
+ROUTE:	/ruːt/	路线	2015-06-05 17:42:34
+install:	/in'stɔ:l/	安装	2015-08-14 13:57:38
+protal:	先天的	2015-08-26 18:16:22
+portal:	/'pɔːt(ə)l/	门户网站	2015-08-26 18:16:33
+resilinet:	resilinet	2015-08-26 18:59:13
+buddet:	buddet	2015-08-28 14:32:26
+relam:	relam	2015-09-16 16:57:53
+hello:	/hə'ləʊ; he-/	你好	2015-10-11 16:06:19
+ergonomics:	/,ɜːgə'nɒmɪks/	人体工程学	2015-11-03 19:57:25
+relaimed:	relaimed	2015-11-03 20:06:48
+steady:	/'stedɪ/	稳定的	2015-11-03 23:54:15
+badgerfish:	badgerfish	2015-11-19 15:53:24
+stride:	/straɪd/	步	2015-12-16 01:30:26
+entail:	需要	2015-12-30 12:04:32
+contaminated:	/kən'tæməneɪtɪd/	受污染的	2015-12-30 18:24:07
+jiffiles:	jiffiles	2016-01-15 17:09:07
+taintedness:	taintedness	2016-02-01 14:06:18
+portral:	portral	2016-02-17 14:36:35
+articulated:	/ɑː'tɪkjʊleɪtɪd/	清晰的表达	2016-02-25 11:33:07
+recommond:	recommond	2016-03-04 18:01:12
+extention:	延伸	2016-03-06 20:20:27
+unrelenting:	/ʌnrɪ'lentɪŋ/	无情的	2016-03-07 11:08:03
+angst:	/ɑ:ŋst/	焦虑	2016-03-07 11:08:40
+subversice:	subversice	2016-03-07 11:09:17
+allring:	allring	2016-03-07 11:15:53
+despair:	/dɪ'speə/	绝望	2016-03-07 11:18:07
+brances:	brances	2016-03-13 23:55:46
+conceirve:	conceirve	2016-03-17 17:34:27
+trime:	异	2016-03-18 15:08:48
+valide:	valide	2016-03-22 12:03:51
+foldr:	foldr	2016-03-29 18:00:31
+derive:	/dɪ'raɪv/	推导出	2016-03-30 16:15:48
+despotic:	/dɪ'spɒtɪk/	专制的	2016-03-30 18:03:06
+perimeter:	/pə'rɪmɪtə/	周长	2016-03-30 18:21:04
+extraneous:	/ɪk'streɪnɪəs; ek-/	无关的	2016-03-30 18:23:36
+dict:	dict	2016-03-30 18:23:41
+synctactical:	synctactical	2016-04-01 15:32:50
+marginalize:	/'mɑːdʒɪn(ə)laɪz/	使处于社会边缘	2016-04-01 15:33:20
+raidcal:	raidcal	2016-04-02 14:42:11
+currying:	局部套用	2016-04-02 16:21:08
+referer:	推荐人	2016-04-05 09:56:42
+algebratic:	algebratic	2016-04-12 11:34:18
+mandated:	/mæn'deitid/	授权	2016-04-12 23:26:22
+exclusice:	exclusice	2016-04-13 11:47:38
+culling:	/'kʌliŋ/	扑杀	2016-04-13 15:27:55
+Lightbend:	Lightbend	2016-04-17 23:14:33
+dick:	/dik/	迪克	2016-04-17 23:42:59
+repwat:	repwat	2016-04-20 00:21:03
+data:	/'deɪtə/	数据	2016-04-22 11:40:10
+filt:	filt	2016-04-22 14:57:48
+pump:	/pʌmp/	泵	2016-04-26 10:40:54
+delimma:	delimma	2016-05-05 12:06:52
+newfront:	newfront	2016-05-05 15:11:01
+front:	/frʌnt/	前面	2016-05-05 15:11:06
+tangling:	/'tæŋg(ə)l/	缠绕	2016-05-05 15:29:10
+obviate:	/'ɒbvɪeɪt/	排除	2016-05-05 15:35:55
+grained:	/ɡreɪnd/	粒度的	2016-05-05 15:37:40
+coarse:	/kɔːs/	粗	2016-05-05 15:37:53
+premise:	/'premɪs/	前提	2016-05-05 15:43:53
+nudges:	推动	2016-05-05 17:05:51
+delve:	/delv/	深入研究	2016-05-05 17:51:07
+nuanecs:	nuanecs	2016-05-07 18:33:24
+nuances:	细微差别	2016-05-07 18:33:31
+omnipotent:	/ɒm'nɪpət(ə)nt/	无所不能的	2016-05-07 21:52:49
+legitime:	洋	2016-05-08 22:36:58
+ellapse:	ellapse	2016-05-18 11:28:57
+ugh:	/ʊk/	啊	2016-05-18 20:49:46
+shish:	希什	2016-05-19 22:36:02
+lexicon:	/'leksɪk(ə)n/	词典	2016-05-21 01:00:16
+derivationi:	derivationi	2016-05-25 13:51:00
+induction:	/ɪn'dʌkʃ(ə)n/	感应	2016-05-25 14:13:28
+inductive:	/ɪn'dʌktɪv/	归纳	2016-05-26 09:59:59
+trick:	/trɪk/	技巧	2016-05-26 17:51:04
+concerted:	/kən'sɜːtɪd/	协调一致的	2016-05-27 11:04:57
+encompass:	/ɪn'kʌmpəs; en-/	包含	2016-05-27 11:05:57
+refied:	refied	2016-06-02 18:08:12
+rator:	/'reitə/	rator	2016-06-05 09:53:06
+lease:	/liːs/	租赁	2016-06-13 11:59:09
+bay:	/beɪ/	湾	2016-06-24 09:54:10
+begin:	/bɪ'gɪn/	开始	2016-06-27 18:31:24
+squezzing:	squezzing	2016-06-28 12:24:49
+epheneral:	epheneral	2016-07-07 11:14:33
+carvets:	carvets	2016-07-07 11:23:15
+hoist:	/hɒɪst/	提升机	2016-07-18 11:41:24
+epilogue:	/'epɪlɒg/	后记	2016-08-01 00:05:14
+hormone:	/'hɔːməʊn/	激素	2016-08-04 14:23:51
+susceptible:	/sə'septɪb(ə)l/	易受影响	2016-08-08 15:23:18
+compact:	/kəm'pækt/	紧凑的	2016-08-12 03:17:13
+amenable:	/ə'miːnəb(ə)l/	有义务的	2016-09-10 21:57:51
+eigendecompositon:	eigendecompositon	2016-09-14 15:19:29
+binign:	binign	2016-09-16 11:56:54
+prone:	/prəʊn/	倾向	2016-09-17 00:03:09
+elaborate:	/ɪ'læb(ə)rət/	精心制作的	2016-09-20 21:16:52
+gut:	/gʌt/	肠道	2016-09-26 18:35:22
+projection:	/prə'dʒekʃ(ə)n/	投影	2016-09-27 14:41:16
+modula:	/,mɔ'djulə/	modula	2016-09-28 13:20:13
+commutative:	/kə'mjuːtətɪv; 'kɒmjʊ,tətɪv/	可交换的	2016-10-08 13:48:23
+a%20axioms:	一个公理	2016-10-23 13:24:16
+scalar:	/'skeɪlə/	标量	2016-11-02 15:21:39
+specculative:	specculative	2016-11-19 13:37:08
+calculs:	计算	2016-12-05 23:17:31
+inference:	/'ɪnf(ə)r(ə)ns/	推理	2016-12-12 12:54:51
+pruning:	/'pruːnɪŋ/	修剪	2016-12-12 18:33:33

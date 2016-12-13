@@ -19,7 +19,7 @@ end.parse!
 
 
 if !ARGV.empty?
-  word = Word.new ARGV.join(" ")
+  word = Word.new ARGV.join("%20")
   $stdout.puts word.translate
   word.store if not word.stored?
 end

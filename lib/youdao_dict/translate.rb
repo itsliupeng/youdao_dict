@@ -5,7 +5,7 @@ require 'colorize'
 module YoudaoDict
 
   def translate
-    url = "http://fanyi.youdao.com/openapi.do?keyfrom=#{YoudaoDict.key_from}&key=#{YoudaoDict.key}&type=data&doctype=json&version=1.1&q=" + @word
+    url = "http://fanyi.youdao.com/openapi.do?keyfrom=#{YoudaoDict.key_from}&key=#{YoudaoDict.key}&type=data&doctype=json&version=1.1&q=" + word  # must define attr_accessor :word in the included class
     res = Net::HTTP.get_response URI url
     if res.code == "200"
       @data = JSON.parse(res.body)
