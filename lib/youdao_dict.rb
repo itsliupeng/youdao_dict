@@ -21,10 +21,10 @@ end
 class Word
   attr_accessor :word
 
-  FILENAME = File.expand_path '../../data/dictionary', __FILE__
+  FILENAME = File.expand_path "../../data/dict/#{Time.now.strftime("%Y%U")}", __FILE__
   CONFIG_FILE = File.expand_path '../../config/youdao_dict.yml', __FILE__
 
-  config_data = YAML.load File.read CONFIG_FILE
+  config_data = YAML.load(File.read(CONFIG_FILE))
   KEY_FROM = config_data["key_from"]
   KEY = config_data["key"]
 
